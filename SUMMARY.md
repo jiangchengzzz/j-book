@@ -30,5 +30,5 @@
 
 ## 其他
 * [其他]](views/other/README.md)
-    * [npm报错](views/other/class.md)
+    * [可用性与可访问性](views/other/usability.md)
 
