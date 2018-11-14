@@ -1,7 +1,13 @@
 ## 学习与记录
 
-## 前言
-* [Introduction](README.md)
+## typescript
+* [typescript](views/typescript/README.md)
+    * [typescript-基础](views/typescript/typescript-base/doc1.md)
+        * [typescript产生与优势](views/typescript/typescript-base/doc1.md)
+    * [typescript-环境](views/typescript/typescript-create/doc1.md)
+        * [typescript环境](views/typescript/typescript-create/doc1.md)
+    * [typescript-常见问题与报错](views/typescript/typescript-bug/bug1.md)
+        * [typescript-bug](views/typescript/typescript-bug/bug1.md)
 
 ## react
 * [react](views/react/README.md)
