@@ -6,6 +6,7 @@
 ## 基础类型
 * 在typescript中，我们定义一个变量时候需要确定它的类型例如：
 ```
+  布尔
   let isDone: boolean = false;
 
   不同进制数字：
