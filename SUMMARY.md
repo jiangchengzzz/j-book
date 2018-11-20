@@ -31,7 +31,8 @@
 
 ## es6
 * [es6知识点](views/es6/README.md)
-    * [记class](views/es6/class.md)
+    * [class](views/es6/class.md)
+    * [Object.assign](views/es6/Object.assign.md)
 
 ## bug
 * [bug](views/bug/README.md)
