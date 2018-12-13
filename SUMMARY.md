@@ -28,6 +28,8 @@
 * [vue](views/vue/README.md)
     * [vue-常见问题与报错](views/vue/vue-bug/bug1.md)
         * [vue-bug](views/react/vue-bug/bug1.md)
+    * [vue-环境](views/vue/vue-create/vue-cli3.0+ts.md)
+        * [vue-bug](views/react/vue-bug/vue-cli3.0+ts.md)
 
 ## es6
 * [es6知识点](views/es6/README.md)
@@ -41,4 +43,5 @@
 ## 其他
 * [其他]](views/other/README.md)
     * [可用性与可访问性](views/other/usability.md)
+    * [利用aysnc/await来进行错误处理](views/other/errorManage.md)
 
