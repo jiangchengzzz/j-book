@@ -44,4 +44,6 @@
 * [其他]](views/other/README.md)
     * [可用性与可访问性](views/other/usability.md)
     * [利用aysnc/await来进行错误处理](views/other/errorManage.md)
+    * [布局](views/other/layout.md)
+    * [优秀文章链接](views/other/goodArtcle.md)
 
