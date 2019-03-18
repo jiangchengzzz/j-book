@@ -3,6 +3,10 @@
 ## 前言
 * [Introduction](README.md)
 
+## basis
+* [basis](views/basis/README.md)
+    * [npm报错](views/basis/基础遗漏记录1.md)
+
 ## typescript
 * [typescript](views/typescript/README.md)
     * [typescript-基础](views/typescript/typescript-base/doc1.md)
@@ -31,6 +35,10 @@
     * [vue-环境](views/vue/vue-create/vue-cli3.0+ts.md)
         * [vue-bug](views/react/vue-bug/vue-cli3.0+ts.md)
 
+## week
+* [week](views/weex/README.md)
+    * [week起手式](views/weex/create1.md)
+
 ## es6
 * [es6知识点](views/es6/README.md)
     * [class](views/es6/class.md)
@@ -46,4 +54,6 @@
     * [利用aysnc/await来进行错误处理](views/other/errorManage.md)
     * [布局](views/other/layout.md)
     * [优秀文章链接](views/other/goodArtcle.md)
+    * [D3介绍](views/other/d3.md)
+    * [前端代码异常监控](views/other/errorMonitoring.md)
 
