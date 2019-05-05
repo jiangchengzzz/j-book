@@ -5,7 +5,7 @@
 
 ## basis
 * [basis](views/basis/README.md)
-    * [npm报错](views/basis/基础遗漏记录1.md)
+    * [基础一](views/basis/基础遗漏记录1.md)
 
 ## typescript
 * [typescript](views/typescript/README.md)
@@ -39,6 +39,10 @@
 * [week](views/weex/README.md)
     * [week起手式](views/weex/create1.md)
 
+## webGL
+* [webGL](views/webGL/前言.md)
+    * [three.js](views/webGL/three/了解定义和渲染.md)
+    
 ## es6
 * [es6知识点](views/es6/README.md)
     * [class](views/es6/class.md)
